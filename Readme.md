@@ -25,11 +25,11 @@
   </p>
 <summary>I'm using</summary>
   <p align="left">
-   Python
-   Django
-   Sqlalchemy
-   Numpy
-   Aiogram
+  <p>Python</p>
+  <p>Django</p>
+  <p>Sqlalchemy</p>
+  <p>Numpy</p>
+  <p>Aiogram</p>
 </details>
 <br><br><br>
 </div>
