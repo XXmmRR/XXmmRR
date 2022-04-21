@@ -32,6 +32,10 @@
   <summary><p>Sqlalchemy</p></summary>
   <summary><p>Numpy</p></summary>
   <summary><p>Aiogram</p></summary>
+  <summary><p>Redis</p></summary>
+  <summary><p>Mongodb</p></summary>
+  <summary><p>MySQL</p></summary>
+  <summary><p>PostgreSQL</p></summary>
 <br><br><br>
 </details>
 </div>
