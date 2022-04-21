@@ -12,7 +12,7 @@
 <b>Loves:</b> anime, games, dota 2, Books
 </li>
 <li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
+<b>Gender:</b> he/his/Male
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff, Web Development, Philosophy
