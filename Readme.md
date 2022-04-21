@@ -30,7 +30,6 @@
   <summary><p>MySQL</p></summary>
   <summary><p>PostgreSQL</p></summary>
  </p>
-<br><br><br>
 </details>
  <details>
   <summary>what am i learning?</summary>
