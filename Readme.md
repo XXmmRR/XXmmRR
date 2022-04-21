@@ -23,13 +23,14 @@
   <a href="https://t.me/obfserver" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/flat-emails-action/16/04_send-telegram-paper-plane-512.png" alt="" height="25" width="28" /></a> - Telegram
   <a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/email_mail_envelope_send_message-256.png" alt="" height="28" width="28" /></a> - Mail
   </p>
+ </details>
 <summary>I'm using</summary>
-  <p align="left">
-  <p>Python</p>
-  <p>Django</p>
-  <p>Sqlalchemy</p>
-  <p>Numpy</p>
-  <p>Aiogram</p>
+  <summary><p align="left"></summary>
+  <summary><p>Python</p></summary>
+  <summary><p>Django</p></summary>
+  <summary><p>Sqlalchemy</p></summary>
+  <summary><p>Numpy</p></summary>
+  <summary><p>Aiogram</p></summary>
 </details>
 <br><br><br>
 </div>
