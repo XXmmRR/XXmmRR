@@ -25,7 +25,7 @@
   </p>
  </details>
 <summary>I'm using</summary>
-  <summary><p align="left"></summary>
+  <p align="left">
   <summary><p>Python</p></summary>
   <summary><p>Django</p></summary>
   <summary><p>Sqlalchemy</p></summary>
