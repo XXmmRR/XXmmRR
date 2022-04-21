@@ -7,7 +7,7 @@
   <details>
 <summary>🌐 My social:</summary>
   <br>
-  <p align="left">
+  <p align="right">
   <a href="https://t.me/obfserver" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/flat-emails-action/16/04_send-telegram-paper-plane-512.png" alt="" height="25" width="28" /></a> - Telegram
   <a href="mailto:Xorex50@protonmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/email_mail_envelope_send_message-256.png" alt="" height="28" width="28" /></a> - Mail
   </p>
