@@ -4,6 +4,7 @@
 <div>
  <h2 align="center">Hello</h2>
  <img src='https://c.tenor.com/5-yxqQEbeqMAAAAC/jojo-anime.gif' align="centr">
+ </div>
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
 <div>
 <h2 align="center"> About me</h2>
