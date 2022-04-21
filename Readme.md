@@ -1,12 +1,6 @@
 <body>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<h1 align="center">~ 💖 Welcome to my profile 💖 ~</h1>
 <br>
-<div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://laby.net/@liebesschwur" >
-   <img src="https://lanyard.cnrad.dev/api/202740603790819328?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  </a>
-</div>
  <br>
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
 <div>
