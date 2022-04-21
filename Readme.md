@@ -34,9 +34,16 @@
 </details>
  <details>
   <summary>what am i learning?</summary>
-  <p align="left>
-            <summary><p>C</p></summary/>
-            <summary><p>Datascience</p></summary>
-            </p>
+  <p align="left">
+  <summary><p>Python</p></summary>
+  <summary><p>Django</p></summary>
+  <summary><p>Sqlalchemy</p></summary>
+  <summary><p>Numpy</p></summary>
+  <summary><p>Aiogram</p></summary>
+  <summary><p>Redis</p></summary>
+  <summary><p>Mongodb</p></summary>
+  <summary><p>MySQL</p></summary>
+  <summary><p>PostgreSQL</p></summary>
+ </p>
 </div>
 <div>
