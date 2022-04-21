@@ -5,7 +5,7 @@
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
 <div>
 <h2 align="center"> 🦊 ~ About me ~ 🦊 </h2>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwifflegif.com%2Ftags%2F327-anime-gifs%3Fpage%3D910&psig=AOvVaw3Ws-SxjKIxYpmI8_RLe4sm&ust=1650640106919000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMCqmMn6pfcCFQAAAAAdAAAAABAJ" align="right">
+<img src="https://31.media.tumblr.com/e1be22be95515be89bd9e2dfe57ee50e/tumblr_mt73fsIRe91qiz0hvo1_500.gif" align="right">
 <li>
  <b>Name:</b>Daniil></li>
 <li>
