@@ -24,7 +24,7 @@
   <a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/email_mail_envelope_send_message-256.png" alt="" height="28" width="28" /></a> - Mail
   </p>
  </details>
-<summary>I'm using</summary>
+<details>I'm using</detail>
   <p align="left">
   <summary><p>Python</p></summary>
   <summary><p>Django</p></summary>
