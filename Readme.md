@@ -29,9 +29,14 @@
   <summary><p>Mongodb</p></summary>
   <summary><p>MySQL</p></summary>
   <summary><p>PostgreSQL</p></summary>
+ </p>
 <br><br><br>
 </details>
  <details>
   <summary>what am i learning?</summary>
+  <p align="left>
+            <summary><p>C</p></summary/>
+            <summary><p>Datascience</p></summary>
+            </p>
 </div>
 <div>
