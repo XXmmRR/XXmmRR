@@ -24,14 +24,15 @@
   <a href="mailto:bogdanzadora2005@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/email_mail_envelope_send_message-256.png" alt="" height="28" width="28" /></a> - Mail
   </p>
  </details>
-<details>I'm using</detail>
+<details>
+ <summary>I'm using</summary>
   <p align="left">
   <summary><p>Python</p></summary>
   <summary><p>Django</p></summary>
   <summary><p>Sqlalchemy</p></summary>
   <summary><p>Numpy</p></summary>
   <summary><p>Aiogram</p></summary>
-</details>
 <br><br><br>
+</details>
 </div>
 <div>
